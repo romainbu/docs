@@ -1548,7 +1548,7 @@ Creating date and time inputs
 .. php:method:: dateTime($fieldName, $dateFormat = 'DMY', $timeFormat = '12', $attributes = array())
 
     Creates a set of select inputs for date and time. Valid values for
-    $dateformat are 'DMY', 'MDY', 'YMD' or 'NONE'. Valid values for
+    $dateFormat are 'DMY', 'MDY', 'YMD' or 'NONE'. Valid values for
     $timeFormat are '12', '24', and null.
 
     You can specify not to display empty values by setting
